@@ -1,0 +1,39 @@
+::selection:{
+    background-color: aquamarine;
+    color: red;
+}
+
+
+
+
+
+
+.icon-size {
+    width: 20px;
+height: 20px;
+
+
+}
+.dark-bg {
+    background-color: antiquewhite;
+}
+
+.header-design{
+    height:100vh;
+    overflow-y: hidden;
+
+}
+
+.heading{
+    color: #fff;
+    font-size: 4em;
+}
+.zom {
+    zoom: 150%;
+}
+
+
+
+
+
+
